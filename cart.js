@@ -47,5 +47,5 @@ the length of the cart. Once that was fixed, the program ran smoothly.
 I also added a quick check to make sure a valid discount rate is applied.
 If we pass in an invalid rate, then we do not apply any discount.
 The browser tools are helpful to validate that variables hold the right value and type.
-I got to set breakpoints within functions and mouseover variables to see their current value.
+I got to set breakpoints within functions and mouseover variables to see their current value. 
 */
